@@ -1,6 +1,6 @@
 👋 Hi, I'm @tasneemmomin
 
-🎓 B.Tech in Artificial Intelligence & Data Science
+🎓 CS undergrad specializing in AI & Data Science
 
 🤖 Passionate about Machine Learning, Deep Learning, Data Analysis & Generative AI
 
